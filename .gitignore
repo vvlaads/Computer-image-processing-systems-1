@@ -222,3 +222,7 @@ __marimo__/
 
 # Generated files
 result/
+
+# Local Images
+img/*
+!img/.gitkeep
